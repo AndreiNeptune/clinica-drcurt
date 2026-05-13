@@ -58,6 +58,6 @@ app/
    npm run dev
    ```
 
-## 📄 Licență
+## 👨‍💻 Autor
 
-Acest proiect este proprietatea Clinicii Dr. Curt. Toate drepturile rezervate.
+Acest proiect a fost dezvoltat de [Andrei Neptune](https://github.com/AndreiNeptune).
