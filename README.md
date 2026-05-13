@@ -60,4 +60,4 @@ app/
 
 ## 👨‍💻 Autor
 
-Acest proiect a fost dezvoltat de [Andrei Neptune](https://github.com/AndreiNeptune).
+Acest proiect a fost dezvoltat de [Andrei](https://github.com/AndreiNeptune).
