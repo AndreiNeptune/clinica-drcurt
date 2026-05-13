@@ -27,7 +27,6 @@ const quickLinks = [
   { label: "De Ce Noi", href: "/#de-ce-noi" },
   { label: "Despre Doctor", href: "/#doctor" },
   { label: "Portofoliu", href: "/portofoliu" },
-  { label: "Contact", href: "/#contact" },
 ];
 
 const serviceLinks = [
